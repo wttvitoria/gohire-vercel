@@ -1,0 +1,9 @@
+# Ignorar dependências e builds
+node_modules/
+dist/
+
+# Ignorar variáveis e configurações locais
+.env
+.env.local
+.vscode/
+.DS_Store
